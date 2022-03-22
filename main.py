@@ -24,7 +24,7 @@ def command(message, res=False):
 
 # -----------------------------------------------------------------------
 # Получение сообщений от юзера
-@bot.message_handler(content_types=['text'])
+@bot.message_handler(content_types=['text1'])
 def get_text_messages(message):
     global game21
 

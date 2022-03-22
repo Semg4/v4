@@ -1,7 +1,7 @@
 
 # -----------------------------------------------------------------------
 def dz1(bot, chat_id):
-    bot.send_message(chat_id, text="Готово")
+    bot.send_message(chat_id, text="Готово1")
 # -----------------------------------------------------------------------
 def dz2(bot, chat_id):
     bot.send_message(chat_id, text="Готово")
